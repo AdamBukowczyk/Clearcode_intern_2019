@@ -54,6 +54,7 @@ And get output:
 ```
 (22, {'i_am_the_senate.gif', 'sad_pepe_compilation.gif'})
 ```
+Too see more information, check docstring to function *calculate*
 
 ## Running the tests
 
@@ -73,4 +74,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgements
 
-* [PurpleBooth](https://gist.github.com/PurpleBooth) for creating this amazing README template
+* [PurpleBooth](https://gist.github.com/PurpleBooth) for creating this README template
