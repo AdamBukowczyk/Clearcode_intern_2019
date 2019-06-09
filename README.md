@@ -45,12 +45,12 @@ memes = [
     ]
 ```
 
-Execute function:
+Running the function:
 
 ```
 calculate(usb_size, memes)
 ```
-And get output:
+Should give you output in this format:
 ```
 (22, {'i_am_the_senate.gif', 'sad_pepe_compilation.gif'})
 ```
@@ -60,7 +60,7 @@ Too see more information, check docstring to function *calculate*
 
 The function was tested using **unittest** built-in module.
 
-To run these tests, you need to typing:
+To run these tests, you need to type in:
 ```
 >>> python3 tests.py
 ```
