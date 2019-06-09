@@ -53,7 +53,6 @@ def calculate(usb_size: int, memes: list):
                 ):
             raise TypeError("Wrong data type of an argument inside a tuple.")
 
-    # or (meme[1] is not int) or (meme[2] is not int):
     # preapering data for solution
     # sorting memes table by capacity
     memes.sort(key=lambda memes: (memes[1]))
